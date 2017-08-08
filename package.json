@@ -1,5 +1,7 @@
 {
   "name": "farahmand-timestamp-microservice",
+  "version": "1.0.0",
+  "description" : "Timestamp Microservice | Farahmand Moslemi | Part 1 of Free Code Camp Backend Challenges",
   "dependencies": {
     "express": "^4.14.0",
     "pug": "^2.0.0-rc.3",
@@ -10,6 +12,6 @@
     "start": "node server.js"
   },
   "engines": {
-    "node": "4.4.5"
+    "node": ">=4.4.5"
   }
 }

@@ -8,8 +8,11 @@
 3. If it does not contain a date or Unix timestamp, it returns null for those properties.
 ### Example usage:
 `https://farahmand-timestamp-microservice.glitch.me/August%2007,%202017`
+
 `https://farahmand-timestamp-microservice.glitch.me/1502141022176`
+
 `https://farahmand-timestamp-microservice.glitch.me/2017-08-17`
+
 `https://farahmand-timestamp-microservice.glitch.me/Hello`
 
 ### Example output:

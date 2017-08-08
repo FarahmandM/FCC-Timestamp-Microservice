@@ -2,15 +2,15 @@
 @author: Farahmand Moslemi
 */
 body {
-	font-family: 'Roboto', sans-serif;
-	font-size: 16px;
-	color: #222;
-	background-color: #ECF0F1;
+  font-family: 'Roboto', sans-serif;
+  font-size: 16px;
+  color: #222;
+  background-color: #cdd;
 }
 
 .container {
-	padding: 20px;
-	/*margin-top: 10px;*/
+  padding: 20px;
+  /*margin-top: 10px;*/
 }
 
 strong {
@@ -18,18 +18,14 @@ strong {
 }
 
 ol {
-	list-style-position: inside;
+  list-style-position: inside;
 }
 ul {
-	list-style-type: none;
-}
-
-a {
-	color: #2574A9;
+  list-style-type: none;
 }
 
 code {
-  display: block;
+  display: inline-block;
   margin:6px 0;
   padding: 2px 4px;
   font-size: 90%;

@@ -17,4 +17,5 @@
 
 ### Example output:
 `{"unix":1502141022176,"natural":"August 7, 2017"}`
+
 `{"unix":null,"natural":null}`

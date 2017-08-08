@@ -25,11 +25,16 @@ ul {
 }
 
 code {
-  display: inline-block;
+  display: block;
   margin:6px 0;
   padding: 2px 4px;
   font-size: 90%;
   color: #c7254e;
   background-color: #f9f2f4;
   border-radius: 4px;
+}
+
+code.inline {
+  display: inline-block;
+  margin:0;
 }
